@@ -1,11 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. Dizi Tanımlama ve Eleman Yazdırma", "06_Diziler\40. Dizi Tanımlama ve Eleman Yazdırma\40. Dizi Tanımlama ve Eleman Yazdırma.csproj", "{43738AF2-59E3-4A36-AFA9-159C0CCC6C99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_Diziler", "06_Diziler", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. Dizi Elemanları Listeleme", "06_Diziler\41. Dizi Elemanları Listeleme\41. Dizi Elemanları Listeleme.csproj", "{20B4701D-C416-44FD-9964-ED63CC2FAF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Foreach Döngüsü", "06_Diziler\42. Foreach Döngüsü\42. Foreach Döngüsü.csproj", "{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_Metotlar", "07_Metotlar", "{D8006B67-5FC4-4149-BEBD-AB2256586770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44. Geriye Değer Döndürmeyen Metotlar", "07_Metotlar\44. Geriye Değer Döndürmeyen Metotlar\44. Geriye Değer Döndürmeyen Metotlar.csproj", "{4B9C7701-1D9D-48FC-8BB1-971D5DB841C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +25,27 @@ Global
 		{43738AF2-59E3-4A36-AFA9-159C0CCC6C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43738AF2-59E3-4A36-AFA9-159C0CCC6C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43738AF2-59E3-4A36-AFA9-159C0CCC6C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B4701D-C416-44FD-9964-ED63CC2FAF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B4701D-C416-44FD-9964-ED63CC2FAF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B4701D-C416-44FD-9964-ED63CC2FAF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B4701D-C416-44FD-9964-ED63CC2FAF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9C7701-1D9D-48FC-8BB1-971D5DB841C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9C7701-1D9D-48FC-8BB1-971D5DB841C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9C7701-1D9D-48FC-8BB1-971D5DB841C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9C7701-1D9D-48FC-8BB1-971D5DB841C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{43738AF2-59E3-4A36-AFA9-159C0CCC6C99} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{20B4701D-C416-44FD-9964-ED63CC2FAF70} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4B9C7701-1D9D-48FC-8BB1-971D5DB841C5} = {D8006B67-5FC4-4149-BEBD-AB2256586770}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9C95629-4210-4274-9D74-B505415D736E}
