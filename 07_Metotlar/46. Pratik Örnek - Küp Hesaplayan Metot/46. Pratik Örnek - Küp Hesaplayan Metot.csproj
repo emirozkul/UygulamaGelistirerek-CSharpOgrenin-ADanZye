@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5109CAA-34CA-4E6F-8DB2-3FE5E4EDC0F9}</ProjectGuid>
+    <ProjectGuid>{F4894822-A747-4A00-8EBA-2DE49606D050}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_42.Foreach_Döngüsü</RootNamespace>
-    <AssemblyName>_42.Foreach_Döngüsü</AssemblyName>
+    <RootNamespace>_46.Pratik_Örnek___Küp_Hesaplayan_Metot</RootNamespace>
+    <AssemblyName>_46.Pratik_Örnek___Küp_Hesaplayan_Metot</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
