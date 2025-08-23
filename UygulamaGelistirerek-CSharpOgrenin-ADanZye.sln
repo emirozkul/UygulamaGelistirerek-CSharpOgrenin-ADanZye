@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45. Geriye Değer Döndüre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46. Pratik Örnek - Küp Hesaplayan Metot", "07_Metotlar\46. Pratik Örnek - Küp Hesaplayan Metot\46. Pratik Örnek - Küp Hesaplayan Metot.csproj", "{F4894822-A747-4A00-8EBA-2DE49606D050}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_Sınıflar", "08_Sınıflar", "{19B9AB2C-AD7C-4E4D-854A-EFD7FB4A21A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_Ekstra Araçlar", "09_Ekstra Araçlar", "{7D035AD9-7B64-429B-94EA-2A58EBD9333B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_Ekstra Yapılar", "10_Ekstra Yapılar", "{E6470A09-C759-4F1A-B6A7-39CE942D9147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
